@@ -39,7 +39,7 @@ margin-right: auto;
   background-image: url(../img/kung-fu-panda-small.jpg);
   background-repeat: no-repeat, no-repeat;
   background-size: contain;
-  background-position: right -160px center;;
+  background-position: right -160px center;
 }
 video{
   width: 900px;
