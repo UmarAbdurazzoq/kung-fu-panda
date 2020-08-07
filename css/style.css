@@ -14,3 +14,43 @@ body{
   line-height: 1.5;
   color: #222
 }
+header{
+  background-color: #000;
+}
+.menu{
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+}
+.menu h1{
+  padding: 15px;
+  margin: 0;
+  color: gold;
+  display: flex;
+  justify-content: center;
+}
+.main{
+  background-image: url(../img/KFP3-promo-po4.jpg),
+                    url(../img/kung-fu-panda-small.jpg);
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain;
+  background-position: -100px center, right -150px center;;
+}
+video{
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  background: #000;
+  padding: 15px;
+  outline: none;
+}
+footer{
+  background-color: #000;
+  color: gold;
+}
+footer div{
+  padding: 25px;
+display: flex;
+justify-content: center;
+}
